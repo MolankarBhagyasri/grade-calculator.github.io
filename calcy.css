@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+.card{
+    height: 70vh;
+    width: 40vw;
+    border-radius: 25px;
+    margin: auto;
+    background-color: #091921;
+}
+input{
+    color: white;
+    font-weight: 800;
+    border: none;
+    background-color: #000;
+    font-size: 20px;
+    height: 40px;
+    text-align: center;
+    width: 450px;
+    outline: none;
+}
+button{
+    outline: none;
+    width: 350px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 850;
+    border: 2px solid white;
+    font-size: 20px;
+    height: 45px;
+}
+.result{
+    font-size: 25px;
+    color: white;
+    font-weight: 850;
+    margin: auto;
+    height: 175px;
+    margin-top: 30px;
+    width: 450px;
+    border-radius:10px;
+    background-color: #091921;
+}
+
