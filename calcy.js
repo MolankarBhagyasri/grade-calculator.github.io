@@ -11,7 +11,7 @@ function publishResult(){
     document.getElementById("percentage").innerHTML="The Percentage Is:" + percentage;
 
     if (percentage>=90) {
-        document.getElementById("grade").innerHTML="Youre Passed In A+ Grade";
+       document.getElementById("grade").innerHTML="Youre Passed In A+ Grade";
     }
     else if (percentage>=80) {
         document.getElementById("grade").innerHTML="Youre  Passed In A Grade";
