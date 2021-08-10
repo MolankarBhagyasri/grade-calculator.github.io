@@ -3,19 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+body
+{
     text-align: center;
     font-family: sans-serif;
-    background-color: whitesmoke;
+    background-color:blanchedalmond;
 }
-.card{
+.card
+{
+    margin-top: 60%;
+    padding-top: 10px;
     height: 70vh;
     width: 40vw;
     border-radius: 25px;
     margin: auto;
     background-color: #091921;
 }
-input{
+input
+{
     color: white;
     font-weight: 800;
     border: none;
@@ -26,7 +31,8 @@ input{
     width: 450px;
     outline: none;
 }
-button{
+button
+{
     outline: none;
     width: 350px;
     background-color: #000;
@@ -36,12 +42,13 @@ button{
     font-size: 20px;
     height: 45px;
 }
-.result{
-    font-size: 25px;
+.result
+{
+    font-size: 20px;
     color: white;
     font-weight: 850;
     margin: auto;
-    height: 175px;
+    height: 100px;
     margin-top: 30px;
     width: 450px;
     border-radius:10px;
